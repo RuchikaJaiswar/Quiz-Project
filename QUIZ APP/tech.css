@@ -1,0 +1,29 @@
+
+
+  
+.title{
+    font-size: 8rem;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+  }
+
+  .col{
+    background-color: beige;
+    padding: 8px;
+    border: 1px solid black;
+    
+  }
+  
+  .m{
+    border: 5px black;
+  }
+  
+  .col:hover{
+    background-color: rgb(51, 156, 51);
+  }
+
+.container{
+  font-size: medium;
+  font-family: 'Times New Roman', Times, serif;
+}
